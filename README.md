@@ -88,6 +88,12 @@ This project uses the open-source [BCrypt library](https://github.com/jeremyh/jB
 
 ---
 
+## Screenshots
+![Screenshot 2025-07-02 152356](https://github.com/user-attachments/assets/3b12a838-c18d-45c7-9dde-f3bccc98e2c6)
+
+
+---
+
 ## 🙋 FAQ
 
 **Q: Can I use a different database?**
